@@ -98,7 +98,9 @@
 
 
 
-
+/* ===============================
+        password generator
+=================================== */
 
 input:focus-visible {
     outline: 0;
