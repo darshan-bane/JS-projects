@@ -162,7 +162,7 @@ label {
 
 
 /* ---------Note app-----------  #2272FF*/
-.note_main{
+#note_main{
     width: 100%;
     height: 100vh;
     background: linear-gradient(#001130, #000 ); 
